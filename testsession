@@ -1,14 +1,16 @@
-# C . F Gs C . Ds G
+# C . D Gs C . Ds G
 - ln 4
-- tr 0 36 -12 0
-- reverb 0 0 0.5 0 0 0 0.3 0
+- tr -36
 
-# C C . Gs Gs F F Ds Ds
-- ch 2
-- ln 2
+# C C . Ds Ds D Ds Ds
+- ch 1
+- ln 3
 - tr -12
-- mv 2
+
+# C . Ds . . . . . .
+- ln 2
+- tr 12
 
 # C .
-- ch 3
+- ch 1
 - tr -24
