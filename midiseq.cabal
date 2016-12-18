@@ -26,9 +26,7 @@ executable midiseq-exe
   build-depends:       base
                      , midiseq
                      , hmidi == 0.2.2.1
-                     , unix
-                     , ghc == 8.0.1
-                     , ghc-paths
+                     , split
   default-language:    Haskell2010
 
 test-suite midiseq-test
