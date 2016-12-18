@@ -1,8 +1,9 @@
 # C . C . C . Ds . B C . C . C . Ds . C
 - tr -36
 
-# C . .
+# C . . C . . G . .
 - tr -24
+- ln 3
 
 # C . .
 - tr -12
